@@ -5,15 +5,16 @@
 ### Category Name 1 
 
 [Language Modeling - Seinfeld Text Generation](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Deep Q-Learning - ](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Speech Tagging](https://htmlpreview.github.io/?https://github.com/bhargavsaidasari/Speech-Tagging-Web-App/blob/master/index.html)
-<img src="images/sample_pos.png?raw=true"/>
+
+Speech Tagging is an important task in Natural Language Processing and finds applications in Named Entity Recognition, Sentiment Analysis, Question Answering, and Word Sense Disambiguation. This project builds a Speech Tagger utilizing a bigram Hidden Markov Model and Viterbi decoding.
 
 ---
 
