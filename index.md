@@ -33,10 +33,3 @@ This project designs a Kalman filter based Dynamic Bayesian Network with a first
 - [Improved Timing Synchronization for Long-Haul Transmission at 100 Gbps Over 80 WDM Channels](https://www.osapublishing.org/abstract.cfm?uri=Photonics-2016-Tu2G.4)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
