@@ -20,7 +20,7 @@ The trained model is served on AWS for real-time inference utilizing a PyTorch L
 Speech Tagging is an important task in Natural Language Processing and finds applications in Named Entity Recognition, Sentiment Analysis, Question Answering, and Word Sense Disambiguation. 
 <br>
 
-This project builds a Speech Tagger utilizing a bigram Hidden Markov Model for training, Viterbi decoding for inference, deployed using AWS Lambda, and configured to use real-time requests from a web-app with REST API backend. 
+This project builds a Speech Tagger utilizing a Bigram Hidden Markov Model for training, Viterbi decoding for inference, deployed using AWS Lambda, and configured to use real-time requests from a web-app with REST API backend. 
 
 ---
 [Respiratory Rate Estimation using Kalman Filter]()
