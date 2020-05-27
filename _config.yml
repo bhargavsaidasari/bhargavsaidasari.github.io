@@ -1,9 +1,9 @@
 title: Bhargav Dasari # your name (or website title) here
 logo: "/images/github-profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist with 2 years of experience building scalable systems for large-scale data analysis and deploying ML Models at scale.
+  Data Scientist with 2 years of experience building scalable pipelines for large-scale data analysis and deploying ML Models to production.
   <br><br>
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/sai-bhargav-dasari/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
