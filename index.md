@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[End-to-End N-Gram Language Modeling and Text Generation](https://htmlpreview.github.io/?https://github.com/bhargavsaidasari/text_generation_webapp/blob/master/index.html)
+[End-to-End N-Gram Language Modeling using LSTM](https://htmlpreview.github.io/?https://github.com/bhargavsaidasari/text_generation_webapp/blob/master/index.html)
 
 Language modeling is the core element of various Natural Language Processing tasks such as Speech-to-Text, Conversational Systems, and Text Generation.
 <br>
