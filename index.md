@@ -18,11 +18,11 @@ This project builds a Speech Tagger utilizing a Bigram Hidden Markov Model for t
 
 ---
 
-[English-Hindi Neural Machine Translation]()
+[English-Hindi Neural Machine Translation](https://github.com/bhargavsaidasari/Machine-Learning-Projects/tree/master/English-Hindi-Translation)
 
 This project implements a English-Hindi Machine Translation Network with Attention mechanism from scratch utilizing data from Ted Talk Scripts and News Articles.
 
-The encoder is a multi-layered Bidirectional GRU encoder, decoder is based on the Bahdanau Attention mechanism, and adaptive Teacher-Forcing is implemented to speeden up convergence during training while also avoiding model instability during inference.
+The encoder is a multi-layered Bidirectional GRU, decoder is based on the Bahdanau Attention mechanism, and adaptive Teacher-Forcing is implemented to speeden up convergence during training while also avoiding model instability during inference.
 
 ---
 
