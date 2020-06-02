@@ -32,7 +32,7 @@ This project designs a Kalman filter based Dynamic Bayesian Network with a first
 
 ---
 
-[Navigation using Deep Q-Networks]
+[Navigation using Deep Q-Networks]()
 
 This project solves the Banana Collector Navigation Agent on Unity utilizing a Double Deep Q-Network with Prioritized Experience Replay.
 
